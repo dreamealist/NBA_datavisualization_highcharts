@@ -1,0 +1,22 @@
+{
+  "name": "arkadium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handlebars-v4.0.10.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamealist/arkadiumdataviz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamealist/arkadiumdataviz/issues"
+  },
+  "homepage": "https://github.com/dreamealist/arkadiumdataviz#readme",
+  "devDependencies": {
+    "jasmine": "^2.7.0"
+  }
+}
